@@ -30,6 +30,7 @@ Check out my full portfolio with demos and code **https://www.mikeweaver.dev**
 
 Thanks for stopping by — I’m actively looking for software roles and always happy to chat! 👨‍💻
 
+---
 
 ### My Story
 
