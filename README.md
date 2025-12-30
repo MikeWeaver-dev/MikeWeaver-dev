@@ -1,10 +1,10 @@
-# Quick About
+### Quick About
 
 I’m an aspiring software developer who transitioned from analytics and process automation. I'm a fast learner and I'm passionate about problem solving, coding, and tech. 
 
 ---
 
-## What I’m Good At
+### What I’m Good At
 
 **Languages & Frameworks:** JavaScript, Python, HTML, CSS, R 
 **Technologies & Tools:** React, Expo, Firebase, TailWind CSS
