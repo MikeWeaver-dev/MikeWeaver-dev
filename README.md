@@ -13,7 +13,7 @@ I’m an aspiring software developer who transitioned from analytics and process
 ---
 
 ### Portfolio
-Check out my full portfolio with demos and code **https://www.mikeweaver.dev**
+Check out my full portfolio with demos and code **https://mikeweaver.dev**
 
 - **🌍 Geospatial Analytics App** — Cleans and visualizes millions of data points onto an interactive map.  
 - **✈️ Social Travel Platform** — Full-stack app with auth, profiles, follows, posts & likes hosted on Firebase.  
