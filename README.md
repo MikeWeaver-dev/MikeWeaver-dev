@@ -6,8 +6,8 @@ I’m an aspiring software developer who transitioned from analytics and process
 
 ### What I’m Good At
 
-**Languages & Frameworks:** JavaScript, Python, HTML, CSS, R 
-**Technologies & Tools:** React, Expo, Firebase, TailWind CSS
+**Languages & Frameworks:** JavaScript, React, Python, HTML, CSS, R 
+**Technologies & Tools:** Expo, Firebase, TailWind CSS
 **Focus Areas:** Full-stack web & mobile app development, AI integration, process automation
 
 ---
